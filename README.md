@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for job as backend developer using Java spring boot and have good communication skills 
+I'm currently looking for job as backend developer using Java spring boot.
 
 
 # 💻 Tech Stack:
